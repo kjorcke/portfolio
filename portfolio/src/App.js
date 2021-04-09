@@ -19,6 +19,7 @@ function App() {
               <div className="title-container">
                 <div className="name">
                   Kathleen Jorcke
+                  Full-Stack Web Developer
                 </div>
               </div>
     
